@@ -1,0 +1,46 @@
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+	Test - Points 
+-------------------------------------------------------------------------------------------------------------------------------------------------------	
+
+	- Equity buy. 	--> Landing on the portfolio page. Port folio update.  immediate --> company comm --> dmat account update. 
+					--> Fin settlement txn. 
+					--> Raise payments on the accounts. -- self / outside. 
+					--> settle on own account and settle on bank account. 
+					--> port folio final update. 
+					
+	- Equity sell. 	--> Landing on the portfolio page. Port folio update.  immediate --> company comm --> dmat account update. 
+					--> Fin settlement txn. 
+					--> Raise payments on the accounts. -- self / outside. 
+					--> settle on own account and settle on bank account. 
+					--> port folio final update. 
+					
+	- MF buy. 		--> Landing on the portfolio page. Port folio update.  immediate --> company comm --> dmat account update. 
+					--> Fin settlement txn. 
+					--> Raise payments on the accounts. -- self / outside. 
+					--> settle on own account and settle on bank account. 
+					--> port folio final update. 
+					
+	- MF sell. 		--> Landing on the portfolio page. Port folio update.  immediate --> company comm --> dmat account update. 
+					--> Fin settlement txn. 
+					--> Raise payments on the accounts. -- self / outside. 
+					--> settle on own account and settle on bank account. 
+					--> port folio final update. 
+	
+	- Equity SIP buy. 	--> Landing on the portfolio page. Port folio update.  immediate --> company comm --> dmat account update. 
+					--> Fin settlement txn. 
+					--> Raise payments on the accounts. -- self / outside. 
+					--> settle on own account and settle on bank account. 
+					--> port folio final update. 
+	- Equity SIP sell. 	--> Landing on the portfolio page. Port folio update.  immediate --> company comm --> dmat account update. 					
+					
+					
+	- MF SIP buy. 		--> Landing on the portfolio page. Port folio update.  immediate --> company comm --> dmat account update. 
+					--> Fin settlement txn. 
+					--> Raise payments on the accounts. -- self / outside. 
+					--> settle on own account and settle on bank account. 
+					--> port folio final update. 
+	- MF SIP sell. 		--> Landing on the portfolio page. Port folio update.  immediate --> company comm --> dmat account update. 					
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
